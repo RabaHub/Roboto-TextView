@@ -18,28 +18,28 @@
         android:gravity="center_horizontal"
         android:orientation="vertical">
 
-        <itech.com.ux1.core.RobotoTextView
+        <resis.it.robototextview.RobotoTextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="Hello World!"
             android:textSize="50sp"
             app:robotoFont="Roboto_Thin"/>
 
-        <itech.com.ux1.core.RobotoTextView
+        <resis.it.robototextview.RobotoTextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="Hello World!"
             android:textSize="50sp"
             app:robotoFont="Roboto_Regular"/>
 
-        <itech.com.ux1.core.RobotoTextView
+        <resis.it.robototextview.RobotoTextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="Hello World!"
             android:textSize="50sp"
             app:robotoFont="Roboto_Bold"/>
 
-        <itech.com.ux1.core.RobotoTextView
+        <resis.it.robototextview.RobotoTextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="Hello World!"

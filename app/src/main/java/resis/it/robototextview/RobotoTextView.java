@@ -1,4 +1,4 @@
-package itech.com.ux1.core;
+package resis.it.robototextview;
 
 import android.content.Context;
 import android.content.res.TypedArray;
