@@ -1,4 +1,9 @@
 # Roboto-TextView
 Use Roboto fonts in your Android projects
 
-![alt tag]https://github.com/RabaHub/Roboto-TextView/blob/master/screen.png
+
+<p align="center">
+  <img src="https://github.com/RabaHub/Roboto-TextView/blob/master/screen.png"/>
+  
+  <img src="https://github.com/RabaHub/Roboto-TextView/blob/master/using.png"/>
+</p>
